@@ -1,0 +1,188 @@
+
+.main{
+	height:1000px;
+	width:100%;
+	margin:-0;
+	padding:0px;
+	display: block;
+
+
+}
+
+.header{
+	width:100%;
+	height:200px;
+	margin:0px;
+	padding:0px;
+	background-color:#A069D6;
+}
+h1{
+	padding: 20px;
+}
+	
+
+.content{ 	
+    width:70%;
+	height:1000px;
+	margin:0px;
+	margin:0 auto;
+	background-color: rgba(94, 13, 172, 0.1);
+
+}
+#avatar{	
+	border: 3px solid white;
+	margin-top:10px;
+	margin-right:10%;
+	width: 250px;
+	margin-top:-80px;
+	float: right;
+	}
+#firstN{
+	color:white;
+	width: 300px;
+	margin-left:30px;
+	margin-top:0px;
+	
+}
+#secondN{
+	color:white;
+	width: 300px;
+	margin-left:30px;
+	margin-top:0px;
+	
+} 
+.footer{    
+
+ width:100%;  
+ height:100px;  
+ margin:0px;  
+ padding:0px;
+ background-color:#A069D6; 
+ 
+}
+
+.SocNet{
+	width:70%;
+	height:200px;	
+	margin:0 auto;
+}
+#facebook{
+	margin: 20px;
+	height: 40px;
+	width: 40px;
+	background: url('Forsoc.png') 0 -40px; 
+	}
+
+#facebook:hover {
+	margin: 20px;
+	height: 40px;
+	width: 40px;
+	background: url('Forsoc.png') 0 0; 
+	}
+#twitter{
+	margin: 20px;
+	height: 40px;
+	width: 40px;
+	background: url('Forsoc.png') -45px 0; 
+	
+}
+#twitter:hover {
+	margin: 20px;
+	height: 40px;
+	width: 40px;
+	background: url('Forsoc.png') -45px -40px; 
+	}
+#google{
+	margin: 20px;
+	height: 40px;
+	width: 40px;
+	background: url('Forsoc.png') -180px 0; 
+	
+}
+#google:hover {
+	margin: 20px;
+	height: 40px;
+	width: 40px;
+	background: url('Forsoc.png') -180px -40px; 
+	}
+.soc{
+	
+	display: inline-block;
+}
+
+.foreMail{
+
+	height: 80px;
+	width: 300px;	
+	float: left;
+	padding: 10px;
+	color:white;
+
+	
+}
+.forsoc{
+	height: 30px;
+	width: 30%;
+	margin:0 auto;
+}
+
+.forAdress{
+	height: 80px;
+	width: 300px;
+	color:white;
+	float: right;
+	margin-top: -40px;
+}
+
+.table{
+	padding: 15px;
+	width:50%;
+
+}
+
+#email{
+     color: white;
+}
+
+.table{
+	text-align: center;
+	font-size: 18px;
+	padding: 5px;
+}
+td {
+    padding: 5px;
+    padding-right: 10px;
+    
+}
+tr{
+    padding: 10px;
+    width: 0%;
+    height: 30px;  
+}
+.firstcolumn{
+	width: 40%;
+	text-align: center; 
+}
+.line{
+	margin-top: 100px;
+	padding: 0;
+	height: 5px;
+	width: 100%;
+	background-color:#552781;
+}
+.curses{
+	line-height: 0.5;
+}
+
+.forcurses{
+	width: 60%;
+	float; right;
+	margin-left:auto;
+    margin-right:auto;
+float:right;
+}
+#aboutcorses{
+	float:right;
+	display: inline-block;
+}
+//----------------------------------------------------------------
